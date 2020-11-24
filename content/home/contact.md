@@ -1,7 +1,7 @@
 ---
 # An instance of the Contact widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: contact
+widget: contact_0
 active = false  # Activate this widget? true/false
 
 # This file represents a page section.
