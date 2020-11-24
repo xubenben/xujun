@@ -59,14 +59,3 @@ subtitle = ""
   # Text color (true=light or false=dark).
   # text_color_light = true
 
-[advanced]
- # Custom CSS.
- css_style = ""
-
- # CSS class.
- css_class = ""
-+++
-
-#{{% callout note %}}
-#Quickly discover relevant content by [filtering publications](./publication/).
-#{{% /callout %}}
