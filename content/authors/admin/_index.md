@@ -6,10 +6,13 @@ title: Hua Wu
 superuser: true
 
 # Role/position
-role: Chief scientist of Baidu’s NLP department and the president of the Baidu Technical Committee
+role: 
+- Chief scientist of Baidu’s NLP department
+- President of the Baidu Technical Committee
 
 # Organizations/Affiliations
 organizations:
+- wu_hua@baidu.com
 - name: Baidu
   url: ""
 
@@ -53,7 +56,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "wu_hua@baidu.com"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
