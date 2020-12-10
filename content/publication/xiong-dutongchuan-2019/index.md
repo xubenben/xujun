@@ -11,7 +11,7 @@ authors:
 - Zhongjun He
 - Hua Wu
 - Haifeng Wang
-tags: []
+tags: [machine translation]
 categories: []
 date: '2019-01-01'
 lastmod: 2020-12-10T15:22:55+08:00

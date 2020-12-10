@@ -9,7 +9,7 @@ authors:
 - Zhongjun He
 - Hua Wu
 - Haifeng Wang
-tags: []
+tags: [machine translation]
 categories: []
 date: '2016-01-01'
 lastmod: 2020-12-10T15:22:59+08:00

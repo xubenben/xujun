@@ -9,7 +9,7 @@ authors:
 - Hua Wu
 - Haifeng Wang
 - Ting Liu
-tags: []
+tags: [machine translation]
 categories: []
 date: '2012-01-01'
 lastmod: 2020-12-10T15:23:06+08:00

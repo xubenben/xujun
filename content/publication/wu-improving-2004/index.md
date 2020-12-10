@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Hua Wu
 - Haifeng Wang
-tags: []
+tags: [machine translation]
 categories: []
 date: '2004-01-01'
 lastmod: 2020-12-10T15:23:12+08:00
