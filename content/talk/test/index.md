@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Test"
+title: "Test-new"
 event:
 event_url: 
 location:
@@ -50,7 +50,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video:"https://www.youtube.com/watch?v=EpfhNlX6XCY"
+url_video:
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
