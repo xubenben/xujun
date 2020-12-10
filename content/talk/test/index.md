@@ -3,7 +3,7 @@
 
 title: "Test"
 event:
-event_url: "http://news.family.baidu.com/newsDetail/207971"
+event_url: 
 location:
 address:
   street:
@@ -50,7 +50,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video:
+url_video:"https://www.youtube.com/watch?v=EpfhNlX6XCY"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
