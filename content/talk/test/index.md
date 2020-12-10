@@ -27,7 +27,7 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -50,7 +50,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video:
+url_video:https://www.youtube.com/watch?v=Z0wkdav-YXE
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
