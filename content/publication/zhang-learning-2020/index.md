@@ -10,7 +10,7 @@ authors:
 - Zhongjun He
 - Hua Wu
 - Haifeng Wang
-tags: [machine translation]
+tags: [machine translationcontent/publication/he-improve-2012/index.md]
 categories: []
 date: '2020-01-01'
 lastmod: 2020-12-10T15:22:47+08:00
