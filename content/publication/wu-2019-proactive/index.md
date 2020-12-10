@@ -16,8 +16,8 @@ tags: []
 categories: []
 date: '2019-01-01'
 lastmod: 2020-11-24T21:25:18+08:00
-featured: true
 draft: false
+featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
