@@ -7,8 +7,8 @@ superuser: true
 
 # Role/position
 role: 
-- Chief scientist of Baidu’s NLP department
-- President of the Baidu Technical Committee
+- Chief Scientist of NLP
+- Chair of Baidu Technical Committee
 
 # Organizations/Affiliations
 organizations:
