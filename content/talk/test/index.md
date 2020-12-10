@@ -33,8 +33,8 @@ featured: true
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Name"
+  focal_point: "Left"
   preview_only: false
 
 # Custom links (optional).
@@ -50,7 +50,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video:https://www.youtube.com/watch?v=Z0wkdav-YXE
+url_video:IMG_0813
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
