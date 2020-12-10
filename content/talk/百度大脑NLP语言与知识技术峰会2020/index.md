@@ -51,7 +51,9 @@ url_slides:
 
 url_code:
 url_pdf: 'talk/百度大脑NLP语言与知识技术峰会2020/IMG_0813.mov'
-url_video: https://www.bilibili.com/video/BV1jk4y1y7Y6?from=search&seid=17592121354154345012
+url_video: 'talk/百度大脑NLP语言与知识技术峰会2020/IMG_0813.mov'
+
+#https://www.bilibili.com/video/BV1jk4y1y7Y6?from=search&seid=17592121354154345012
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
