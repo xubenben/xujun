@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Test-new"
+title: "百度大脑NLP语言与知识技术峰会2020"
 event:
-event_url: 
+event_url:
 location:
 address:
   street:
@@ -12,7 +12,8 @@ address:
   postcode:
   country:
 summary:
-abstract:
+abstract: 百度大脑语言与知识十年进化和沉淀，分享最新产品，助力企业加速产业化落地，共同推进技术进步、产业智能化发展
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -33,9 +34,9 @@ featured: true
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Name"
+  caption: "语言与智能峰会"
   focal_point: "Left"
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -49,8 +50,8 @@ image:
 url_slides:
 
 url_code:
-url_pdf:
-url_video:IMG_0813
+url_pdf: 'content/talk/百度大脑NLP语言与知识技术峰会2020/IMG_0813.mov'
+url_video: https://www.bilibili.com/video/BV1jk4y1y7Y6?from=search&seid=17592121354154345012
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
