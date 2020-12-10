@@ -10,8 +10,7 @@ role: Chief Scientist of NLP and Chair of Baidu Technical Committee
 
 # Organizations/Affiliations
 organizations:
-- name: Baidu
-  url: ""
+- name: wu_hua@baidu.com
 
 # Short bio (displayed in user profile at end of posts)
 bio: Hua Wu is the chief scientist of Baidu’s natural-language processing department and the president of the Baidu Technical Committee.
