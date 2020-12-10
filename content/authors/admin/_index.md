@@ -6,14 +6,11 @@ title: Hua Wu
 superuser: true
 
 # Role/position
-role: 
-- Chief Scientist of NLP
-- Chair of Baidu Technical Committee
+role: Chief Scientist of NLP; Chair of Baidu Technical Committee
 
 # Organizations/Affiliations
 organizations:
-- wu_hua@baidu.com
-- name: Baidu
+- name: Baidu, wu_hua@baidu.com
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
