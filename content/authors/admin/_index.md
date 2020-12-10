@@ -6,7 +6,7 @@ title: Hua Wu
 superuser: true
 
 # Role/position
-role: Chief scientist of Baidu’s natural-language processing department and the president of the Baidu Technical Committee
+role: Chief scientist of Baidu’s NLP department and the president of the Baidu Technical Committee
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hua Wu is the chief scientist of Baidu’s natural-language processing department and the president of the Baidu Technical Committee. Her research fields include machine translation, natural language processing (NLP), machine learning, dialogue systems, and the knowledge graph. Over her eight years at Baidu, she and her team have achieved multiple technology breakthroughs in NLP and machine translation, many of which have been successfully deployed in a range of Baidu products used by hundreds of millions of users. Ms. Wu also co-founded the Baidu Translate project, which provides instant, free multilingual text translation, and built the core technology for Baidu’s personal assistant. She served as program co-chair of ACL (the Association for Computational Linguistics) 2014, and also chairs international conferences such as ACL and IJCAI (International Joint Conference on Artificial Intelligence). 
+bio: Hua Wu is the chief scientist of Baidu’s natural-language processing department and the president of the Baidu Technical Committee.
 
 interests:
 - Dialogue Systems
@@ -64,3 +64,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
+
+Hua Wu is the chief scientist of Baidu’s natural-language processing department and the president of the Baidu Technical Committee. Her research fields include machine translation, natural language processing (NLP), machine learning, dialogue systems, and the knowledge graph. Over her eight years at Baidu, she and her team have achieved multiple technology breakthroughs in NLP and machine translation, many of which have been successfully deployed in a range of Baidu products used by hundreds of millions of users. Ms. Wu also co-founded the Baidu Translate project, which provides instant, free multilingual text translation, and built the core technology for Baidu’s personal assistant. She served as program co-chair of ACL (the Association for Computational Linguistics) 2014, and also chairs international conferences such as ACL and IJCAI (International Joint Conference on Artificial Intelligence). 
