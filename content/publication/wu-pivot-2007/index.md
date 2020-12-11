@@ -7,11 +7,11 @@ summary: ''
 authors:
 - Hua Wu
 - Haifeng Wang
-tags: [machine translation]
+tags: ["selected", "machine translation"]
 categories: []
 date: '2007-01-01'
 lastmod: 2020-12-10T15:23:09+08:00
-featured: true
+featured: false
 draft: false
 
 # Featured image

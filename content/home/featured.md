@@ -5,7 +5,7 @@
 
 widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Featured Publications"
@@ -38,6 +38,11 @@ subtitle = ""
   #   3 = Card
   #   4 = Citation (publication only)
   view = 4
+  columns = 1
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["5px", "0", "5px", "0"]
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -59,9 +64,7 @@ subtitle = ""
   # Text color (true=light or false=dark).
   # text_color_light = true  
   
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["2px", "0", "2px", "0"]
+
   
 [advanced]
  # Custom CSS. 

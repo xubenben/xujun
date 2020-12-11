@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
+title = ""
 subtitle = ""
 
 [content]
@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "publication"
 
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 10
 
   # Choose how many pages you would like to offset by
   offset = 0
@@ -38,6 +38,11 @@ subtitle = ""
   #   3 = Card
   #   4 = Citation (publication only)
   view = 4
+  columns = 1
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["5px", "0", "5px", "0"]
 
 [design.background]
   # Apply a background color, gradient, or image.
